@@ -1,4 +1,4 @@
-module example.org/winnerselectionfairness
+module github.com/felix314159/dftws-fairnessEvaluation
 
 go 1.22.3
 
