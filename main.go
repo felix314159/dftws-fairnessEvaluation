@@ -4,8 +4,10 @@ package main
 import (
 	"crypto/ed25519"
 	"crypto/rand"
+	"encoding/csv"
 	"encoding/hex"
 	"fmt"
+	"os"
 	"sort"
 	"strconv"
 	"strings"
@@ -16,10 +18,15 @@ import (
 	"github.com/libp2p/go-libp2p/core/peer"
 )
 
+const (
+	amountOfRunTrials = 10 // i define a run trial as a set of node identities that are tested for winner selection in many different runs
+	amountOfRunsPerIdentitySet = 3000
+	amountOfNodeIdentitiesPerRun = 40
+	csvOutputName = "data.csv"
+)
+
 func main() {
-	const amountOfRunTrials = 10 // i define a run trial as a set of node identities that are tested for winner selection in many different runs
-	const amountOfRunsPerIdentitySet = 3000
-	const amountOfNodeIdentitiesPerRun = 40
+
 
 	fmt.Printf("Simulation Config:\n\tAmount of trials: %v\n\tAmount of runs per trial: %v\n\tAmount of miner identities per run: %v\n\n", amountOfRunTrials, amountOfRunsPerIdentitySet, amountOfNodeIdentitiesPerRun)
 
@@ -62,6 +69,24 @@ func main() {
 			fmt.Printf("\tAmount of node %v wins: %v\n", ind+1, leaderboard[z.NodeID]) // start counting at 1, its more intuitive when reading output
 		}
 		
+		// write the data to csv so that it can be analyzed later
+		// 		if the csv file already exists at first iteration, delete it and then create a new one and write its header
+		if j == 0 {
+			// delete old csv if it exists
+			DeleteExistingCSV(csvOutputName)
+
+			// create new csv with n1,n2,... header
+			CreateNewCSVWithHeader(csvOutputName)
+		}
+
+		// 		define row to write to csv
+		var row []string
+		for _, m := range minerSlice {
+			// convert int to string and append it to row
+			row = append(row, fmt.Sprintf("%v", leaderboard[m.NodeID]))
+		}
+		// write row to csv
+		AppendRowToCSV(row, csvOutputName)
 
 	}
 
@@ -267,4 +292,59 @@ func GetMinerCommitment(solutionHash Hash, miner Miner) ActiveMiner {
 	}
 
 	return NewActiveMiner(commit)
+}
+
+// ---- csv ----
+
+// DeleteExistingCSV deletes the csv file if it already exists.
+func DeleteExistingCSV(csvFileLocation string){
+	// check if file exists
+	_, err := os.Stat(csvFileLocation)
+	if err == nil {
+		// file does exist, so delete it
+		err = os.Remove(csvFileLocation)
+		if err != nil {
+			panic(err)
+		}
+	}
+
+}
+
+// CreateNewCSVWithHeader creates a new csv with the n1,n2,... header.
+func CreateNewCSVWithHeader(csvFileLocation string) {
+	// create new csv
+	file, err := os.Create(csvFileLocation)
+	if err != nil {
+		panic(err)
+	}
+	defer file.Close()
+
+	// define header (n1, n2, ...)
+	var header []string
+	for temp:=0; temp<amountOfNodeIdentitiesPerRun; temp++ {
+		header = append(header, fmt.Sprintf("n%v", temp+1))
+	}
+
+	// write header to file
+	AppendRowToCSV(header, csvFileLocation)
+
+}
+
+// AppendRowToCSV appends the given row to the csv.
+func AppendRowToCSV(row []string, csvFileLocation string) {
+	// open csv
+	file, err := os.OpenFile(csvFileLocation, os.O_APPEND|os.O_WRONLY, 0644)
+	if err != nil {
+		panic(err)
+	}
+	defer file.Close()
+
+	// create CSV writer
+	writer := csv.NewWriter(file)
+	defer writer.Flush()
+
+	// write data
+	if err := writer.Write(row); err != nil {
+		panic(err)
+	}
 }
