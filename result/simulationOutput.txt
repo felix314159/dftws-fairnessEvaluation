@@ -1,0 +1,816 @@
+Simulation Config:
+	Amount of trials: 10
+	Amount of runs per trial: 3000
+	Amount of miner identities per run: 40
+
+---- Run Trial 1 ----
+	Node 1: 12D3KooWFdWTnydmuJ5F1b3rcrJLMxKHoJVcUmBCBsCVhG7b5NrV
+	Node 2: 12D3KooWG7NUVwVPTMtGX61CE995faJhh6AD7xKmR4Hy1aRtvyev
+	Node 3: 12D3KooWHp1sMkE13Zqy5B6vw8x8hxp3QaSZCe3vpTcST8WtGyk6
+	Node 4: 12D3KooWRZCRkXaev9c32gbRYXXpeYhFWcCxQtgAQv5d8TY3X2F4
+	Node 5: 12D3KooWHM5Z1aSR8nvTGuj8PaBFTf9wVFhZMWDeWvEg2hP18czE
+	Node 6: 12D3KooWLWGNHDS9ZcqYaHUeFpqPib2tKvBA3akogCcHoftdXJVc
+	Node 7: 12D3KooWFKN1hP1ykmEkpb6ytpWdLTkc6DfFppTdUamQB89urPax
+	Node 8: 12D3KooWHhB7ika2TywFw1qAw4XwT6m8CtEb2nvthXdYxSphbRtB
+	Node 9: 12D3KooWLit96DWxoXbZtLdLupjPbX3hcTQhuDX6uK8LgDHsZA49
+	Node 10: 12D3KooWLGAEvJZ3xqaM1Tw3CwUBNvDfkwz1ZemsSLXMBFq6LDHH
+	Node 11: 12D3KooWGBaySp58FVo9645Jwy1s4gkhrJVC2s3ApejkPBbN8Vku
+	Node 12: 12D3KooWF2m1xnQveTabHCSDuDnLGkQMCfMP1sJKUZ5ExYzaAeYP
+	Node 13: 12D3KooWFmqw4Wem9cFXVGM55H8nC7qaCsaMvBifH8tvaCJbNFqR
+	Node 14: 12D3KooWB7jw8LasUMChUPR7uxLbG38k8N43UTH5KigETCNX3CXa
+	Node 15: 12D3KooWBKjXRJkWFugfTRP2YhNRqc5MxSAPWVTVwBWgbSDfQGx9
+	Node 16: 12D3KooWDAarXHEM6yjGDwEDVTTdYc2nnQEMTh1AM5Xy1bJfJPZu
+	Node 17: 12D3KooWEk6eTMdz2xNTef26tB18U8gDjWUzRzaqTFsASunNBHKq
+	Node 18: 12D3KooWMi9WtM2yaXhCMSMLi7avG5fTwT55DaRwq24TskmGUgGs
+	Node 19: 12D3KooWSHBQRydbgJx2tHbZtBkAX8oHMXuKwMk16unvxVwk6Rma
+	Node 20: 12D3KooWBQM9oMdGkBNhKkzNk6wj6nr5frT1vFZmwzz6JLZiotFe
+	Node 21: 12D3KooWCdBhhZEBPQipT3Tu8bskDPUCCEjVJE4Cxit1LBpHNxxT
+	Node 22: 12D3KooWN5s83r96w7uoMKDVR5DU3qMXMT7CcXqSMxBMjuws14N5
+	Node 23: 12D3KooWNbn4xoovqyudkPRg2qN69r6k9ZwgutepqG12a6sjcpEH
+	Node 24: 12D3KooWSQiHKgvWrYu2C9iFPMw6gGuw41ZERZFwocxiBC9VdK3X
+	Node 25: 12D3KooWMscvzAcuZqBhxG8kPCuDQ25p8HKBVpG3mZwTnhTzfcNz
+	Node 26: 12D3KooWQb8194r5UCnepPjcqS5uyhx1bHS25rRA5mULPvQ6o1GV
+	Node 27: 12D3KooWHZnzeifZ8VHc5nSdj6j76eEHVC8sM4Wc5h1Cw2eYhERY
+	Node 28: 12D3KooWMTA7qBwjk3ZyWkHRuKUWj13TxcgXgLCzZQBh6atMGW2q
+	Node 29: 12D3KooWLJzmpyScfHc3TKs6Ff7paDnSazCGeuGN3pageX47dBGY
+	Node 30: 12D3KooWFrcu5RLN6easFSwUShy9FQiHCazWHpaH93NNeHuZL1Lf
+	Node 31: 12D3KooWQ6tEgCU7dw1fDGZr1fda6SkNRqupNZZAxcABEkcD11Qh
+	Node 32: 12D3KooW9tBmNGdNqCrsQGfSTJsTEXWEtrdwsEXAipbQXjRMJJPS
+	Node 33: 12D3KooWDDmprTvTwf6tBvXuFMhWtferGhm7h4TkaGgu73haryFA
+	Node 34: 12D3KooWDH1Gq5dSz3cENYP67XtjZf2ZmfGgUrMkEypsGUaNTTK1
+	Node 35: 12D3KooWGYvzqUms4yBPfJfDJznhd9Pr2aTHGCa1LNwRz1ZK1fxn
+	Node 36: 12D3KooWGd1LUGubPFAuDdcZadruamf2FUUvqVobx7ps6ospUQsT
+	Node 37: 12D3KooWJ9tjC2wPTFuSjDY3RkpaT51k6usUhFPpjwa6qaYqCyou
+	Node 38: 12D3KooWETSCcBa1Six1UDp6pyn3ERSpv3boetWbFjd95jPrzpAN
+	Node 39: 12D3KooWGUFgBVbtw7QbE67TcGa9JFDHgskGTaBNAMgrgX4BLzYz
+	Node 40: 12D3KooWMgAAY5YhS4mKdo6g8T65ipGXxf1c3dDhTF2SPSwggc3B
+	Amount of node 1 wins: 87
+	Amount of node 2 wins: 64
+	Amount of node 3 wins: 89
+	Amount of node 4 wins: 85
+	Amount of node 5 wins: 87
+	Amount of node 6 wins: 64
+	Amount of node 7 wins: 70
+	Amount of node 8 wins: 67
+	Amount of node 9 wins: 85
+	Amount of node 10 wins: 92
+	Amount of node 11 wins: 72
+	Amount of node 12 wins: 61
+	Amount of node 13 wins: 72
+	Amount of node 14 wins: 71
+	Amount of node 15 wins: 64
+	Amount of node 16 wins: 72
+	Amount of node 17 wins: 84
+	Amount of node 18 wins: 85
+	Amount of node 19 wins: 82
+	Amount of node 20 wins: 77
+	Amount of node 21 wins: 70
+	Amount of node 22 wins: 84
+	Amount of node 23 wins: 76
+	Amount of node 24 wins: 82
+	Amount of node 25 wins: 88
+	Amount of node 26 wins: 64
+	Amount of node 27 wins: 61
+	Amount of node 28 wins: 74
+	Amount of node 29 wins: 64
+	Amount of node 30 wins: 64
+	Amount of node 31 wins: 88
+	Amount of node 32 wins: 66
+	Amount of node 33 wins: 73
+	Amount of node 34 wins: 66
+	Amount of node 35 wins: 76
+	Amount of node 36 wins: 62
+	Amount of node 37 wins: 72
+	Amount of node 38 wins: 85
+	Amount of node 39 wins: 89
+	Amount of node 40 wins: 66
+---- Run Trial 2 ----
+	Node 1: 12D3KooWQdBDfZ8ZWr5GN9ddhHup8PGPdWqgurHsF12BbEK8aCTt
+	Node 2: 12D3KooWK6wfb7ktD5bHGVkTyUdyvCm7mjCFZQLn26MFqvhKxMpE
+	Node 3: 12D3KooWFo1rHzrHUy7bA47yw2udat5RkJFyTwHB56aXuXfut1KU
+	Node 4: 12D3KooWJFWsABEfxDpaWAWJqsfGwuhpqt8CDste691eYJAqekb9
+	Node 5: 12D3KooWDQ2b3GXTmWNEciLSnE4gA2tNd2QSLHvpBYMU9m9e4B43
+	Node 6: 12D3KooWJLUma26oJX2sQF8MGNzakYrM2eN1bscRD43saUmXgBiC
+	Node 7: 12D3KooWLkUPPEzh17FYHLmeaqK57SBQ6udwsjGo2UQ5aPY58NTe
+	Node 8: 12D3KooWDb7TQrK6rPRSizPZFTNXFQGuY39J6bkaB8gvjtjQUnrS
+	Node 9: 12D3KooWFkNEQFh54SGYhCK3hiBW8279nVJyyuLLwkAWmmLBQdFd
+	Node 10: 12D3KooWDqyE9rVQZeSLQX2LGrbTofiGez4GAkafSKTzSAton6pH
+	Node 11: 12D3KooWKVbPw4R73e2if8ahZY2Gd52CHpQgZnyD46oovjedt38c
+	Node 12: 12D3KooWKNyjsBSBbc8XYafaBGThitK9NVPBrAeJV4vvd5NeTXYu
+	Node 13: 12D3KooWE6dCet1LJrLVd61qnxBSJ9qrw5aLWhrG5d85dbfxSY53
+	Node 14: 12D3KooWNDPyYRt2iJ5s5ALEuMZ6tQvWHMnx9amskrJUr8RWCLBq
+	Node 15: 12D3KooWL4MBd6TCWcqR2CC9rqfjeWe3PaAhjLdiMwfcXRvYCA5g
+	Node 16: 12D3KooWMjww2MZY8BCvHRyXpE791EJDJh3GZP5Ef7zqqWmWNpJp
+	Node 17: 12D3KooWBEZZfmLVjZgQgeF9pw98nx25pGTg7d2RiYX9DA9SC2NZ
+	Node 18: 12D3KooWQ5LLpmH2ZPX85iTvDxMiCLVtwTi3iUy88mQzh5WrWBiY
+	Node 19: 12D3KooWSC9qer9AyAxAwqskEiPEGHW7eDsc4vyDvj2vRexXDMHz
+	Node 20: 12D3KooWMutZeqctbZ2Rg5wneFD5Q8Dg2rTKdqbYNQctwqKWnz5c
+	Node 21: 12D3KooWCAwZazwSUTuEENxtk8aesR675sUwWkgtux4gdRWCxFZx
+	Node 22: 12D3KooWLuzGvt4GYpyGuQGwSCkqfWXSJ7mUPzibUUJ8cZXJQsc9
+	Node 23: 12D3KooWKw7HBQ5EhoVDwjAZMxiR56zb1BRjCcSA2aE9QfmqJya6
+	Node 24: 12D3KooWRVeYVKvCYkX6eswhRMrHPbpBQ37zqrxhHpbenVbwR9oe
+	Node 25: 12D3KooWE6Nf4mP1kg9FMmpmCX1hNKitusjnWqZPggm4QCBi77me
+	Node 26: 12D3KooWALX3aqok5k4yuv4oWdjBmjx1Rst2aCUVfHmJEUvvQqbq
+	Node 27: 12D3KooWCgYsBWRJKZ34LXoT9FyavURmmTh7sXx3fY3Hiw2Fq1Xx
+	Node 28: 12D3KooWJye8a1nmRDuQ8YJqPrkEaS7UeqzWDtTcwHnjGtV6zVP5
+	Node 29: 12D3KooWPWktnaT8MqZ7sTGQRPkvAw7sAmztGeopUYuWkYSNuzyX
+	Node 30: 12D3KooWH6zR54qNx6Lsfo9B2WjhbsDomau79U2iajZZiR6Q8fqB
+	Node 31: 12D3KooWQnnCthZQHs54uZGwscU5u4Y6UqT5ShLFzW6wnrg4hfxY
+	Node 32: 12D3KooWBaXSv16eTFguc1gdTnWwfj9YgTmGcfajctAsts99arCh
+	Node 33: 12D3KooWDEKkMmGwKmUV7rPFzSDfVv3RaYj4rNSbK8gmiusMvK2z
+	Node 34: 12D3KooWLTN2x6JgQtCdGcArRymnSd3JpGHHDJwPDd33PyDWCgMy
+	Node 35: 12D3KooWS2aBZHcL2ReqTQ3SnssA89z1v7V46V3gUmu2ky2eVwwE
+	Node 36: 12D3KooWRbma62qPVndqX1okSePhqSGtwKyofXuSjtGiRHBEGcgo
+	Node 37: 12D3KooWB4PQ83eJaiUumW5HMPgfHa3EXT82vzeHWcMK5hnwox7u
+	Node 38: 12D3KooWAaPmg9wmAyT3aPhFG8n6d4WQKEq31pBv5tiCTUGwzRwt
+	Node 39: 12D3KooWGZkNCNyNw38njKqvDZP6mE7p3u4Nou1wpu5pxzZ512nj
+	Node 40: 12D3KooWLKFEcuXtDB4AucaZtkNXp2YDEGvGWoy8r2KMG6ioUqS9
+	Amount of node 1 wins: 81
+	Amount of node 2 wins: 66
+	Amount of node 3 wins: 84
+	Amount of node 4 wins: 63
+	Amount of node 5 wins: 74
+	Amount of node 6 wins: 74
+	Amount of node 7 wins: 69
+	Amount of node 8 wins: 77
+	Amount of node 9 wins: 68
+	Amount of node 10 wins: 94
+	Amount of node 11 wins: 68
+	Amount of node 12 wins: 68
+	Amount of node 13 wins: 92
+	Amount of node 14 wins: 76
+	Amount of node 15 wins: 65
+	Amount of node 16 wins: 66
+	Amount of node 17 wins: 74
+	Amount of node 18 wins: 82
+	Amount of node 19 wins: 86
+	Amount of node 20 wins: 64
+	Amount of node 21 wins: 75
+	Amount of node 22 wins: 71
+	Amount of node 23 wins: 83
+	Amount of node 24 wins: 76
+	Amount of node 25 wins: 61
+	Amount of node 26 wins: 62
+	Amount of node 27 wins: 79
+	Amount of node 28 wins: 72
+	Amount of node 29 wins: 72
+	Amount of node 30 wins: 76
+	Amount of node 31 wins: 84
+	Amount of node 32 wins: 86
+	Amount of node 33 wins: 92
+	Amount of node 34 wins: 77
+	Amount of node 35 wins: 77
+	Amount of node 36 wins: 75
+	Amount of node 37 wins: 72
+	Amount of node 38 wins: 78
+	Amount of node 39 wins: 65
+	Amount of node 40 wins: 76
+---- Run Trial 3 ----
+	Node 1: 12D3KooWEnTQ9R7LPGrcFimSCqZxvtc4uVpJTQLv1j1BH8JTeaUv
+	Node 2: 12D3KooWSPgnjcrxdpVYkysFrTnakeSMxwKWNtv8YTKYEzEU3Jm1
+	Node 3: 12D3KooWNrkxEVHyWQqqEMrqb3depphSqycUg1N1cPSrqge7spDb
+	Node 4: 12D3KooWA9LhQ4z2FYsdy6fopJbi7oc5Kkcs5hiZghPzzFi4qbuB
+	Node 5: 12D3KooWBMYAMnDz3oUXAbGvVVjAmJbercVB46Yb9CmLSnGBi1Rt
+	Node 6: 12D3KooWLaaidXRkemDJkk9Vp5K762GDiLuw81nrFtE52ur9Acwx
+	Node 7: 12D3KooWHQNLuspKYPZU4xwwmhDgGVbCV1GvbLYDbX7SAkUcaehy
+	Node 8: 12D3KooWHQr6WPWSPLPFymAd3DrRZxQXuiB93S27xKR5FJmZTg7e
+	Node 9: 12D3KooWB5eWdgzTzNPXc1G637ERLqB8vzjgJxFmGrKZZCHb81Kj
+	Node 10: 12D3KooWDt5bgRpiHjBLGPCcb8fm5ufyjtFGfFzNtBRS7rDAEVjs
+	Node 11: 12D3KooWEqDswMxjoCLuj3BDAiaNcnv4bbqxpjd7hDM4JKyJioF8
+	Node 12: 12D3KooWQcNUrGQxo9WTseuPgjQioaSoHUTuh8kZd8Wc1sFNu692
+	Node 13: 12D3KooWKismTPXRE8ujwSWukkCMq4vygfVVMR9v2VJ9jq6Ae35j
+	Node 14: 12D3KooWFokyYhsWsSSmWLe4e2CR8W6fgqoyAgorTvigTzXseUb9
+	Node 15: 12D3KooWHaQYS3y3M6rNveSDBnqSPZ5SunPY2dx1ydQz3PHPMidg
+	Node 16: 12D3KooWDyXfFKumvkfxW5cVoyRvAoodHFPw8GGkrbrmW7P82Sxr
+	Node 17: 12D3KooWSa3WK9zGJAhDZNZ9Jf1ukABj3UUJL7S2AnCYXVuT4DBv
+	Node 18: 12D3KooWEAG5e8ZhsUSEzCLTWmdR69TpaJH7KxYsHJzcWt7hEuUj
+	Node 19: 12D3KooWMFKEe55RMger76UcuL2xacRTH1eHTjyHUknvxrambnL8
+	Node 20: 12D3KooWJdfiiJGstmWeEjVEtxBXFERnx6fSEwELJogmhzNDshba
+	Node 21: 12D3KooWMSovwrD6fcapVv764cLV8ezuZnJD2XiaNAgD8x7X7tvw
+	Node 22: 12D3KooWAZBaAJWsMqbqzhwT7bRAPY546c1cmW62NAdQspPF7R5M
+	Node 23: 12D3KooWDTLNfZytCQ54sKzxxwm6KRyYW88CqQRay2wzwDRH4rmm
+	Node 24: 12D3KooWBbBpn5e9f8arCSpWMKBuma9h9wnJLMpdeZAadXMRrw7X
+	Node 25: 12D3KooWSo6siWfnfXM3Bhv5SHJAwf9t29iTUyLTk3uEYPRc1eBc
+	Node 26: 12D3KooWBGduwbrjuAtcnCbeTY5SkTqpZZsQyQwBVQeZCAzncWLD
+	Node 27: 12D3KooWALpXJsNfVstPHFXGVSmag4j2bhXid2DLvNgqz8ELnfkX
+	Node 28: 12D3KooWL77eUapbLf11muqjvnfwepYQQyTZJtMHXQGzoLZUE2yp
+	Node 29: 12D3KooWQNRYqJkg6FmpMze47RbpcQZr4aoFDkFQAywDZxEbVPA3
+	Node 30: 12D3KooWNUVZgQ6KZJfzND2RgFBVb3sJzUTTK12AYYpQP7muXetx
+	Node 31: 12D3KooWDwWDFMi6XBBMjTCwZDDSzV4ZzjeVD7eRYaDp8GeovJCS
+	Node 32: 12D3KooWCNEr6i5j2QuNV1MmUhjqoutFSiZU3vYZDvgVhT9QCANe
+	Node 33: 12D3KooWNyyUxW6B7BQTcHFdtxS5v98hm5o59qDEjLodSD89TqgS
+	Node 34: 12D3KooWRzM21ySEsowCS79FCV1RY1utnHcYmdpYjAgAf48Fiv9K
+	Node 35: 12D3KooWK3wofvcZJSo3JWiLS9QYjEuodqP6vdvfKQQXTKQpn7AX
+	Node 36: 12D3KooWM8ELT71oNrG9CEkdW54rPVQH8VDQidSasQ3XBuWQmAMh
+	Node 37: 12D3KooWA7nFAN6QhzkumQKAEXbEAh6zcYSrKsuduEgEbifi5r7E
+	Node 38: 12D3KooWAaXgJS9fmgbiahvcfJU9KM4V3CuD8HmWgzLr4PRqRpt1
+	Node 39: 12D3KooWRTJrq8yanfeLAfbm2dEucAL3uuSB3dSegw8Mpak8ycof
+	Node 40: 12D3KooWLwMdp9Y6JM3Lnr8CntSUQaCJUT48Zu1q1czzPRLkDNyC
+	Amount of node 1 wins: 74
+	Amount of node 2 wins: 62
+	Amount of node 3 wins: 66
+	Amount of node 4 wins: 80
+	Amount of node 5 wins: 80
+	Amount of node 6 wins: 81
+	Amount of node 7 wins: 74
+	Amount of node 8 wins: 74
+	Amount of node 9 wins: 60
+	Amount of node 10 wins: 81
+	Amount of node 11 wins: 81
+	Amount of node 12 wins: 80
+	Amount of node 13 wins: 70
+	Amount of node 14 wins: 68
+	Amount of node 15 wins: 81
+	Amount of node 16 wins: 87
+	Amount of node 17 wins: 90
+	Amount of node 18 wins: 77
+	Amount of node 19 wins: 83
+	Amount of node 20 wins: 73
+	Amount of node 21 wins: 61
+	Amount of node 22 wins: 75
+	Amount of node 23 wins: 84
+	Amount of node 24 wins: 79
+	Amount of node 25 wins: 62
+	Amount of node 26 wins: 72
+	Amount of node 27 wins: 79
+	Amount of node 28 wins: 69
+	Amount of node 29 wins: 86
+	Amount of node 30 wins: 67
+	Amount of node 31 wins: 74
+	Amount of node 32 wins: 70
+	Amount of node 33 wins: 78
+	Amount of node 34 wins: 75
+	Amount of node 35 wins: 77
+	Amount of node 36 wins: 75
+	Amount of node 37 wins: 68
+	Amount of node 38 wins: 66
+	Amount of node 39 wins: 87
+	Amount of node 40 wins: 74
+---- Run Trial 4 ----
+	Node 1: 12D3KooWENaeCZocifMsTtsXxAiBTvAmku53fLS2KVknSMrVEDtR
+	Node 2: 12D3KooWBFSUvCaX6FXb3rgZmW5MNxbEZVu4BLD7UUF4FcEFZdEt
+	Node 3: 12D3KooWF3M2kSgtX6F6HgecrZ6SrSbhJQCCnFC1GoCri71KNHsF
+	Node 4: 12D3KooWAu2zNouHKNL1hb4Nz8Kc7DA5KppqW8hycHrBCSeHuFLF
+	Node 5: 12D3KooWQEfB1SeuCteFxw7wsszMsRdSnxq1Udmh4HgEn4GjqKsC
+	Node 6: 12D3KooWNxJHSvmuwo3zKcfqXT8jYD4BDqZTP63fmj9Pr9R5VfEt
+	Node 7: 12D3KooWS453KbXAmrxPdFM3Ld4Kk85mhrubmjqHTcCC7fv6xqpU
+	Node 8: 12D3KooWHJJ3MXSwyQwYZG9Cb7CeLMumfnbtFXAe8VpfZD5geSiZ
+	Node 9: 12D3KooWEJ2SmJssK1cECXftJYAouinL7FcyhW5BwkPASFYZSuTn
+	Node 10: 12D3KooWAqmWXydTSx73rnqHDDfBYWzv73FwPPga8t3iJ3cF5XGu
+	Node 11: 12D3KooWF9y2uKzjsDNAXVroDZKFKFo4QqJ7zF9zPS9jvxyfJLGZ
+	Node 12: 12D3KooWBGeD4owTo6xLHxQt7F26xJPAoiE8cjdAmVrF3eARdDsV
+	Node 13: 12D3KooWMyWYWKFyrSL95Jj2goe2YUb1pDF1vWtbjN2ow9Kt2dkD
+	Node 14: 12D3KooWNPNC9QXRdFiAUY4NKCCFQoawf9TgqHxH5d3ZQpJMoLQq
+	Node 15: 12D3KooWGUvuDMovKR87SWKnizk1GwiEBjTBUL19dNKKP44avQgp
+	Node 16: 12D3KooWPa5n8NtzKRieGeqKNfFwkYZcJHkEa1dZjPfRcnes5vcM
+	Node 17: 12D3KooW9zc4MPDwSDc7C5ridoB6peqoQDMQaN15inpBkeYQVwnA
+	Node 18: 12D3KooWBudkag6rmx7UPUVThA9aLHQWvvqTtSX8sE9DjBzYrMGN
+	Node 19: 12D3KooWPRYWKtZ8YHL5MAVCaotE3SdiCRLBCkjahbQjanV9Df9E
+	Node 20: 12D3KooWBe79EVBRmmV4mtBDCHLBqDnMwGRGsvAbpaT8xbprAZjU
+	Node 21: 12D3KooWGnqEnrvtybmcNHzBUWV9qGHGpVjKpKb85cTzhhRABcVf
+	Node 22: 12D3KooWF3SFvXizgWRhYJCwSrpgKuAWtrcCx5YgfCBihRdJnqyi
+	Node 23: 12D3KooWG2Mp2dggeMsQ4Axqxeh5V3AKRMmxq31YWWXVZyVSMvYV
+	Node 24: 12D3KooWH4XmUdughMTTdApGQhypyHjrq7PzarsBshrBKYwyrsx7
+	Node 25: 12D3KooWStBYDfFrzdzcP5WPqKrobxeUpGrM2W3QmwGb5vHQxbP8
+	Node 26: 12D3KooWScDZnZ2bCDQ36RgqyXT2pH665xdLnfMYpPQub6CjtCAb
+	Node 27: 12D3KooWRqLnUmZBYr644EtrCzSej1a9n6bDapx4DXLdd9sF9gYV
+	Node 28: 12D3KooWGSeRQQt55w9u7kP7cnRbmByYLsA48cZBKZwEXsvaTRDR
+	Node 29: 12D3KooWCCU53MP5tsfuSdDVH7WmuNps18JkDQxGYxXvLLRTpAV2
+	Node 30: 12D3KooWLLzpAVd9jeYWAZgKJzUiTSeXbTZnsuNqUjKJxrGRid6M
+	Node 31: 12D3KooWPYF9t3E2nnrMKf8hmhmkBkHyVTNo54TZxBrv4pFVZR5W
+	Node 32: 12D3KooWCKLQ4oY6Jsh4X8T5UTbfu3qbYUzVTEUmy8iooJiHjq6m
+	Node 33: 12D3KooWSuQ18YitteKWdrjqQXEy6SxtzzNTKGVCQitnvM8XfRET
+	Node 34: 12D3KooWApvWy88878oJm2UiKN2PDmGCiHcDvuF1xQdXx74URiUn
+	Node 35: 12D3KooWRfM8M5gV3aD1871TdMjT36Rv1KjtHBBRqRhfnZyhjT3h
+	Node 36: 12D3KooWGzveD8yRsx6NKs23XMyKKJiKXPmSS6wEYmhPq9nrfJXi
+	Node 37: 12D3KooWNh978Ar1GQygnAk4v5Y63eyt1Vp3TN5pvVoSyhHpGPah
+	Node 38: 12D3KooWENSSD8y74cm3vzUirVuDkUyQu8a98ZTX58YQA4zZtAhR
+	Node 39: 12D3KooWM1QDs5ZZ1CBxEYetPhWrW26xJMFuAswuctWEebeHQZER
+	Node 40: 12D3KooWA49EzUp8UnPvm33rGDJMypeiFH3tpqBF4ki1VqKhQycf
+	Amount of node 1 wins: 67
+	Amount of node 2 wins: 79
+	Amount of node 3 wins: 81
+	Amount of node 4 wins: 70
+	Amount of node 5 wins: 90
+	Amount of node 6 wins: 59
+	Amount of node 7 wins: 80
+	Amount of node 8 wins: 82
+	Amount of node 9 wins: 65
+	Amount of node 10 wins: 76
+	Amount of node 11 wins: 64
+	Amount of node 12 wins: 68
+	Amount of node 13 wins: 62
+	Amount of node 14 wins: 90
+	Amount of node 15 wins: 83
+	Amount of node 16 wins: 74
+	Amount of node 17 wins: 79
+	Amount of node 18 wins: 76
+	Amount of node 19 wins: 65
+	Amount of node 20 wins: 87
+	Amount of node 21 wins: 77
+	Amount of node 22 wins: 75
+	Amount of node 23 wins: 72
+	Amount of node 24 wins: 91
+	Amount of node 25 wins: 73
+	Amount of node 26 wins: 70
+	Amount of node 27 wins: 86
+	Amount of node 28 wins: 82
+	Amount of node 29 wins: 69
+	Amount of node 30 wins: 80
+	Amount of node 31 wins: 78
+	Amount of node 32 wins: 64
+	Amount of node 33 wins: 79
+	Amount of node 34 wins: 77
+	Amount of node 35 wins: 74
+	Amount of node 36 wins: 63
+	Amount of node 37 wins: 70
+	Amount of node 38 wins: 75
+	Amount of node 39 wins: 79
+	Amount of node 40 wins: 69
+---- Run Trial 5 ----
+	Node 1: 12D3KooWD2bEYFDBMFQoSEKkf4KwmcTsNkrN8gNcRRczdRahd5X6
+	Node 2: 12D3KooWSKNbBC61KkuJSxscNJAyjMcH79GPX1WkSUTJX47xZppr
+	Node 3: 12D3KooWRwUBcWGD8MoEhaBwAB9JCCjKmhQC1Ka1rmpNhaJtZ39L
+	Node 4: 12D3KooWGmVdVocbnbvuHoDKbhXmoDUqM5auEdBk3J2vTEmfgHNk
+	Node 5: 12D3KooWRGsgxye8HDCLQN2kkW4vvsJekrJSz1Jr9ALx6xX2ehxY
+	Node 6: 12D3KooWCBQBV4VR5rbovXSPF4N2r8woRHXLtRhPH8FBjk9X72pH
+	Node 7: 12D3KooWLRxUeSzzsbhiwyTWjTagXQactERjwXKebFCbrtqXagJ1
+	Node 8: 12D3KooWRnyGVPBnv3Liy8JsLThzA1U5XNUZT268hURojopeF3fV
+	Node 9: 12D3KooWHZwGc5jieUr2KWAXWN71D33N8EF27EtmZkfRQyX9gopA
+	Node 10: 12D3KooWCYYrspcf8DrVCLZmBAH23WbRyKN7QdjuxNvZ3BjKqTjY
+	Node 11: 12D3KooWFbqvAeU7cgDMU6fH7ddxkBwMaLbL4rjoEPP7gg4BZP4y
+	Node 12: 12D3KooWApqS8U1Tr4zY2LWb3Z8UhDt36ZuorUp3brcQHSE61dAn
+	Node 13: 12D3KooWEmTD8LFtFKoZCsZqoQpn5i4MvnMEeiHngVgzW1nGxD5V
+	Node 14: 12D3KooWBzyo8nUedMMPaVSDNS8iMvpHuk2Md2QseJL2E5jG9oiQ
+	Node 15: 12D3KooWAR2RjK13WEdu8fJCvbjLxbrUgNmnUWmRc1FxAfrakfW7
+	Node 16: 12D3KooWKoxMvhPuVUkvWHr9vNDABhcZKihTm9EVVpEx5cNwjVGb
+	Node 17: 12D3KooWCeFfc5FjwfHjwHy4xNpiVnphgYt4gAa5wbXCGryyN3oM
+	Node 18: 12D3KooWBWCcfZxScQpv8nr4J6RMTadn6x6VcR6MrQ9LDyWYxG7A
+	Node 19: 12D3KooWAUPzQLdU3GiY8AYHwaFNQsL96ttFzatbfvTn9okriWE4
+	Node 20: 12D3KooWDBMzALg3cyjJEoMU3FM4MXgLwVAtBTawDCjwmMs2cHwj
+	Node 21: 12D3KooW9xkWF1MmwMkQWRntyXhHkR94C84XH7XpSir1N7AcVutv
+	Node 22: 12D3KooWQpbFR7YiqndqEM4bgx7RyLofukebK6oXcwkJt7LLLTGu
+	Node 23: 12D3KooWCcP3rFvtZR4j5iQ8cvq76hPS7DrdfbR181VHieQfHzY4
+	Node 24: 12D3KooWPQQQ65tRCg5FeMTaTGcywdqorLJBGj4osKiyhVBbZbBA
+	Node 25: 12D3KooWLMQDBCRHdAAe9nZ2RbBtKw2aMHhnhs3gZxMT9WiCP15X
+	Node 26: 12D3KooWFHNuh22Z573KJADbV3bX3DvKKJzVUWeLh8XbaePx745p
+	Node 27: 12D3KooWH3Gneu7siEErjq2HnUb46nKvNiKJkkNvSGM4jMAQaeuF
+	Node 28: 12D3KooWNXNekFYif7EBz8F2zv4yybqsx36Y1xqNC7ruthejUP1G
+	Node 29: 12D3KooWMepK2raQXmifgHtwUvQ94uqR2MJEBq49MzuNfw7QGQso
+	Node 30: 12D3KooWMPRVEif1EqJV6rEWmmKutiEvphnyGahEEMU2RJLkQjEc
+	Node 31: 12D3KooWCVGbrCuE3KddCKdYB4sB1H1CALnj1ZnvC8bcAFRCRUSp
+	Node 32: 12D3KooWGF8Sp3LjLG3xjEHoWi1GFgx6eD83Fzgehzck7pkBDaYL
+	Node 33: 12D3KooWSLreD8wZFxMmus3FGn7J1jPqetugSf76hwZvQutYwsXa
+	Node 34: 12D3KooWJndbFXqhmVyS54UW9YKP7kmviHvqrUyVs9sxK5iZMmK4
+	Node 35: 12D3KooWMpp4XmohXLEVYxyubHzgftYUSAZUdRMCrPZ8gVqJiuid
+	Node 36: 12D3KooWSWuDbFbvnpkN3C7XHpttLZYMCJfZy5wGHGV8f3VkL33w
+	Node 37: 12D3KooWEfoq1AMiUDxVwxaH4fJAT1jezMvTXnJfo9GEbq4u3w9k
+	Node 38: 12D3KooWFhb89So1Cz6WiKVSsRwPUfJHVEGBiRAaQspurn5HT3Gr
+	Node 39: 12D3KooWNF3enVP93kBbio4RyXJLiB8Bow86tak4ias3rW1fuUCs
+	Node 40: 12D3KooWRgwgRMWBYYzwoE5oNdRy4AwqcFJEpZCdTaNWRMNMr2vX
+	Amount of node 1 wins: 67
+	Amount of node 2 wins: 82
+	Amount of node 3 wins: 72
+	Amount of node 4 wins: 57
+	Amount of node 5 wins: 67
+	Amount of node 6 wins: 74
+	Amount of node 7 wins: 78
+	Amount of node 8 wins: 76
+	Amount of node 9 wins: 82
+	Amount of node 10 wins: 73
+	Amount of node 11 wins: 86
+	Amount of node 12 wins: 75
+	Amount of node 13 wins: 81
+	Amount of node 14 wins: 79
+	Amount of node 15 wins: 75
+	Amount of node 16 wins: 71
+	Amount of node 17 wins: 79
+	Amount of node 18 wins: 64
+	Amount of node 19 wins: 73
+	Amount of node 20 wins: 79
+	Amount of node 21 wins: 77
+	Amount of node 22 wins: 75
+	Amount of node 23 wins: 73
+	Amount of node 24 wins: 92
+	Amount of node 25 wins: 81
+	Amount of node 26 wins: 64
+	Amount of node 27 wins: 86
+	Amount of node 28 wins: 71
+	Amount of node 29 wins: 86
+	Amount of node 30 wins: 68
+	Amount of node 31 wins: 68
+	Amount of node 32 wins: 66
+	Amount of node 33 wins: 81
+	Amount of node 34 wins: 77
+	Amount of node 35 wins: 69
+	Amount of node 36 wins: 61
+	Amount of node 37 wins: 83
+	Amount of node 38 wins: 84
+	Amount of node 39 wins: 71
+	Amount of node 40 wins: 77
+---- Run Trial 6 ----
+	Node 1: 12D3KooWLJiqKvbQeRDJxEt9QH1AbEqZq5exmKUneEExVoKfcUzT
+	Node 2: 12D3KooWQe4ixRAUWi6fRvceF8Ny8kFkZBG1oYAiMfwit1LTu87b
+	Node 3: 12D3KooWAtk7mMzLWzeYk7Yi2qgLgKJtG9PEqa7NJxHYrrdvnEfM
+	Node 4: 12D3KooWDYv2A91hFAJktSk49njBjFcpBcnydvzLxkM3JP1BkKbJ
+	Node 5: 12D3KooWSJL6noRhWbM1iq4e1E8AKjVy88tQuQGhWKFoiZ6xzpUZ
+	Node 6: 12D3KooWHKuDmZLWEPJQpjfo9PGc7d4V3UXknneW4iMCcwuPg1Gy
+	Node 7: 12D3KooWHrCFLWYceVYpbicKpmzpm5E2D6eEfyEYtdGiSifYMDRY
+	Node 8: 12D3KooWDKez77SGuUhzMoYWTCciQfaJJ6wbUHpTQvgX2jEMT3Hk
+	Node 9: 12D3KooWE18LdkpNpvrHfzFc7ndXKYETBkT2E9vCpjAA1G5NsF93
+	Node 10: 12D3KooWQEHySZM4VQZ6JJdbeSmoc2839gFkC7Z4bRDeo357zsa3
+	Node 11: 12D3KooWHihXNh5JAzFP1cTy5H995pmMSwJG9WGwqX2weaQwdcyd
+	Node 12: 12D3KooWMdzzFa3qtWGNPyH1EwcgAEoUs3qECzs8hpQSgWJH69Q6
+	Node 13: 12D3KooWLvPHjhbY9y9S75T61S5Tt4s4NdMgRxwNhMK2hfpfMLR2
+	Node 14: 12D3KooWMTQDDVrSZoc9PoKvw8yhjYmS4CSrtH77LK2kkwVs7kY1
+	Node 15: 12D3KooWKgiK9SQszY9D5bAF9zrGiVYj1iDNW3K2mtUT8EG86aPF
+	Node 16: 12D3KooWHWLceQntpsQNY8rnApYec48UCbjfwZwgepXhaxTaM7xE
+	Node 17: 12D3KooWAZPPc8oddrEkqxHMjZcZhPZUtdtEvFSUWkc7BTDydD9U
+	Node 18: 12D3KooWGtHf5HUXoT1UjzjVbMTnpj3WenySm9ADTY3Ch62GbVuS
+	Node 19: 12D3KooWNvcShmYTXb1uweLaCGr8bYAGjbgYHsAasGnv4vWtWEb2
+	Node 20: 12D3KooWQUm6jNCZxoy7eFS8Pf1A1F51N8usCoEBkqmUiXqnVxf5
+	Node 21: 12D3KooWF7TEsx82thJ4wcd6Y7rUdyFFiZsfZ4ikEqqvkWBY3yZR
+	Node 22: 12D3KooWGR3JeU9s95CFh59taQzQQRX4PCqxiB1DrfV1MjcKWdo6
+	Node 23: 12D3KooWEno5heYUtN1FpfS1tbNapztXKbRh9Nw43uwszjjAeAKL
+	Node 24: 12D3KooWJhUJHSTXGHEWZLoHQ55sLemBUnTLQmmrYcFStMutL5Uq
+	Node 25: 12D3KooWRmktxLuiY6YcbxcbDPcrKy5C2KtmBLQ68Co76oF2Dnhp
+	Node 26: 12D3KooWFSf1Sorx3hUkS5DQn6cCHYc4qD5HKKMYrGRTj7Y9xn12
+	Node 27: 12D3KooWDoehUrQawLUqNw74UuZWBnT6SQEF3KcGJALe1494TNpC
+	Node 28: 12D3KooWFrhw5noy4bAbwx7LoGwPPhNkT3ykXkhgECwjVFTSQLth
+	Node 29: 12D3KooWRoGVbyavu4dNWQzDGhYBkj2u9an37Gi3gEum9kuTtcKv
+	Node 30: 12D3KooWJUVN7NMQwFfytyphdMS56QVR5c1LKiE1R6TGG2skaQQh
+	Node 31: 12D3KooWN4jPMMNVaAYPNR56kSniaWWWRHPBccPd5d5bs9jy9PxR
+	Node 32: 12D3KooWBjaE1DbHSwvbfwEG1Yioh9Jjh9jcLUDBZtEv3Kw5eGNi
+	Node 33: 12D3KooWCKgtiQ2Z2PeTpYWGU93z68p9AgxYQZtJTwFjyADXRaQq
+	Node 34: 12D3KooWP7zVMMMU7B57RF4qavZLvsx9DwYYkL7essbjpJF1qwzg
+	Node 35: 12D3KooWQH15bJyaNfELzt8unyJwRshpFgfgdTWfkitpMFNm97NH
+	Node 36: 12D3KooWKYi9HPv4FdPZjW98JHB1ezzrnZL1otRJgLPSL2PmLYvG
+	Node 37: 12D3KooWMr2SSRfFy1mby6hemj7PZAS9jxPVqi7b9utbiVooYJXj
+	Node 38: 12D3KooWKEtD1HDwuEUH5UqMLju6fiteMxFCp8sgbatJGhwf45J5
+	Node 39: 12D3KooWPSdtuysf8oJMaidZoxGDkBbUKSSV5TkP7r8UidhGguT5
+	Node 40: 12D3KooWGzGnae4Rb8nnW9wGxxgCtgynCiuNNGuYB8ZksipE29qN
+	Amount of node 1 wins: 92
+	Amount of node 2 wins: 80
+	Amount of node 3 wins: 69
+	Amount of node 4 wins: 74
+	Amount of node 5 wins: 79
+	Amount of node 6 wins: 75
+	Amount of node 7 wins: 81
+	Amount of node 8 wins: 70
+	Amount of node 9 wins: 72
+	Amount of node 10 wins: 62
+	Amount of node 11 wins: 79
+	Amount of node 12 wins: 79
+	Amount of node 13 wins: 71
+	Amount of node 14 wins: 75
+	Amount of node 15 wins: 60
+	Amount of node 16 wins: 82
+	Amount of node 17 wins: 81
+	Amount of node 18 wins: 82
+	Amount of node 19 wins: 57
+	Amount of node 20 wins: 67
+	Amount of node 21 wins: 60
+	Amount of node 22 wins: 77
+	Amount of node 23 wins: 81
+	Amount of node 24 wins: 86
+	Amount of node 25 wins: 73
+	Amount of node 26 wins: 64
+	Amount of node 27 wins: 75
+	Amount of node 28 wins: 69
+	Amount of node 29 wins: 67
+	Amount of node 30 wins: 81
+	Amount of node 31 wins: 71
+	Amount of node 32 wins: 80
+	Amount of node 33 wins: 79
+	Amount of node 34 wins: 80
+	Amount of node 35 wins: 72
+	Amount of node 36 wins: 94
+	Amount of node 37 wins: 86
+	Amount of node 38 wins: 70
+	Amount of node 39 wins: 71
+	Amount of node 40 wins: 77
+---- Run Trial 7 ----
+	Node 1: 12D3KooWQDRW92XqoohVh2Lkgmhusdguf2f6qobuq2teo8dk6KtZ
+	Node 2: 12D3KooWPFwGaKfgidDPKFxao87jWvvvmUTYJDiDWycrK4FsMnKj
+	Node 3: 12D3KooWLVAQ58Y8HdKmuG5rXnPnNP5hF4Qu6m17JVN6pgEQdeyW
+	Node 4: 12D3KooWPVp1GqmCH3B7FzpWUQQyjdaJW44eiMzYyUddBVfBtJUh
+	Node 5: 12D3KooWMXLcSFn58mDJiKAxnUzxcK5DTH9doEQaebjVd9qAau5y
+	Node 6: 12D3KooWSH5vsavs1UEVqHtRhDXXaAmgxi7Rkz7ErbGJNPYooPPA
+	Node 7: 12D3KooWRZmgkiC2pLaQMVZZwDfpmC3X38BtjEeSMd6x42BmxHqJ
+	Node 8: 12D3KooWRzwy3UVCSBDPcDoNimGyaNM8FuUX6gwocWu8WPpKF1Cv
+	Node 9: 12D3KooWFH9Wv89cMyNBBjbr2eDdgAcCdhVF3VZMECS1gkrgaXdB
+	Node 10: 12D3KooWF7H9jam7H71pc73CeMkRPGumZrcN2MTzugBGGzycV9wZ
+	Node 11: 12D3KooWDst9TJid4xbu5huJ2MpWLmZa9rtfCaJJ3T2mSsm4Gy5a
+	Node 12: 12D3KooWGbDXZ1mXXYo8g3y6bDDLRpojhLpccwJe4zrpT6b8bESn
+	Node 13: 12D3KooWMMJ5t4ZJtdhPPXnTciEdYTyM8oyCACStS1UDNHrrXC1P
+	Node 14: 12D3KooWRwHDEFnhwnMqCJqhkQJ5jxdcP7WLUxvfVSHhLBrYJpkC
+	Node 15: 12D3KooWQrwn3nA3bZzLfdYvaMwgQTyPDhcWEHpmmvjbbqQe3yQ2
+	Node 16: 12D3KooWEZrTsAEpu2vS18JSpnwSnE7XLpaZqcuuxQcRiv4mkysL
+	Node 17: 12D3KooWJ8zmn8PsUU6VEhKfzeLqXCf46Q8gv3M7XVFWEXDwpL9y
+	Node 18: 12D3KooWJBFm1pSSiL3vSJHPGMbMWVfZkZrzEnFf9e4YM273Xm2c
+	Node 19: 12D3KooWEwEeabcxX2nKZwxKjL1F1N23q4u7pR7pim9y3L7aj1yq
+	Node 20: 12D3KooWSu1VAKEwg2QaKtKARDSkGvgup7iFzmNnjD21zuoEgoS7
+	Node 21: 12D3KooWGKRg4FYKfW4p7fgZqG4WUx1f3dH89mdh8DLnbR2Zp4jc
+	Node 22: 12D3KooWStzYAhPg8GqAsrqZat9z995aSRRRZJHoGb8saJHV6CPp
+	Node 23: 12D3KooWCNsJvgedSdZft2SA95bB4jQjvaz7cegQM4v4dG6CYgj3
+	Node 24: 12D3KooWCzaReLnDu4KmC1LGYHSSrhXjNyZTVpknM6Zi1z9nxak9
+	Node 25: 12D3KooWHLz59UG3XUCUhLSaFszbP9FcHg2JgWHgvmssK14ya7gR
+	Node 26: 12D3KooWJnGnRqr2nRtQeAHkt8ysYAgh33jkxf7WggwFtEXQXuHQ
+	Node 27: 12D3KooWN5RqzEVGfGUYU99X677Xjefb4iSuiWwZTN1PcVfYtAuA
+	Node 28: 12D3KooWRJrSa1fu5CUWbxGy3ZkoPABDs4FzAkKbV2abwDhAFMrC
+	Node 29: 12D3KooWFg5XNKGDEfqEbWqZVSVgjwYVTSfEaXoVgi4Cv7uvk3ks
+	Node 30: 12D3KooWPQZMUsMmcxMCRLtujc5rowuFSBHF9EqrYmwr7rPhcvQY
+	Node 31: 12D3KooWP4B4Q3k22qxrJm7PJUQ49zuqc5ZkZ1dh2b3o7XzvEUFG
+	Node 32: 12D3KooWJ4532hvmRQAeC6Cu9HEAWxN8VLCvuegGje3sG6H2XrQd
+	Node 33: 12D3KooWMLjrPXVATDpgRYRk59jYejyoFxXm3pVwCAwdCngzC4Pa
+	Node 34: 12D3KooWAe6kqHmVd16T9HDGcjZJsaGRxhtgEc1dYqh9ro7eyhKt
+	Node 35: 12D3KooWHtjmCQXbgD7qGcMkQJVfvDqRFU7q98c6qK91ZY1zBMr7
+	Node 36: 12D3KooWQs2syXiZ7pRDGPdPqhAUG3xxVfa4kGRd4Nrb81PjKkno
+	Node 37: 12D3KooWT1RpGYFNumkK8HHbq7NXaQkaKzEJzNtQzSdzZ2s4QeJz
+	Node 38: 12D3KooWJwVwtygnCCVM6PauupduRxa3MwHkXv6rroxfi87NxiPx
+	Node 39: 12D3KooWGaRWv3JR6JsXTqF8Z4VGyVQ1cB4pYDaWnxqhs6XJZhnS
+	Node 40: 12D3KooWRy3kpGTEmyn9aAjndGPt2Sxx1dgeYkdVsc3rc1qPMsnH
+	Amount of node 1 wins: 82
+	Amount of node 2 wins: 68
+	Amount of node 3 wins: 73
+	Amount of node 4 wins: 72
+	Amount of node 5 wins: 80
+	Amount of node 6 wins: 75
+	Amount of node 7 wins: 71
+	Amount of node 8 wins: 71
+	Amount of node 9 wins: 71
+	Amount of node 10 wins: 72
+	Amount of node 11 wins: 74
+	Amount of node 12 wins: 80
+	Amount of node 13 wins: 72
+	Amount of node 14 wins: 88
+	Amount of node 15 wins: 77
+	Amount of node 16 wins: 81
+	Amount of node 17 wins: 70
+	Amount of node 18 wins: 70
+	Amount of node 19 wins: 62
+	Amount of node 20 wins: 72
+	Amount of node 21 wins: 80
+	Amount of node 22 wins: 77
+	Amount of node 23 wins: 76
+	Amount of node 24 wins: 56
+	Amount of node 25 wins: 80
+	Amount of node 26 wins: 82
+	Amount of node 27 wins: 85
+	Amount of node 28 wins: 65
+	Amount of node 29 wins: 67
+	Amount of node 30 wins: 83
+	Amount of node 31 wins: 60
+	Amount of node 32 wins: 75
+	Amount of node 33 wins: 85
+	Amount of node 34 wins: 76
+	Amount of node 35 wins: 79
+	Amount of node 36 wins: 80
+	Amount of node 37 wins: 71
+	Amount of node 38 wins: 90
+	Amount of node 39 wins: 67
+	Amount of node 40 wins: 85
+---- Run Trial 8 ----
+	Node 1: 12D3KooWLAoSwcziMjBrLC4kGHS4TRH34k65VEmn58vhn67dJ26G
+	Node 2: 12D3KooWGhVSQGVMX24S91PRADb8GAaABGPQssgsqVoQfPJePEZ8
+	Node 3: 12D3KooWPXHzbA2GJMaTssPfTYzhPBoDnEfZR4csiVddcTnbSzs5
+	Node 4: 12D3KooWGo7hvTNfK4vnbTeSvNn8Q1JdeM8cgn324hS3ABXm7dwh
+	Node 5: 12D3KooWAZ7y4xH5d1n338HJapfLSAUhywDsQtTsw4QaoF9ZoywU
+	Node 6: 12D3KooWKhWrEp9MUvgg2G9LC3fqH6o3hRKW5KyeKVKkFwd4vyfK
+	Node 7: 12D3KooWCr2kZA6uk362JbUBEq5a2R8TtJBdBiSpbjefPjgGdaG4
+	Node 8: 12D3KooWFVWJ6qybE1YWqgNhimnP3tvpDRYT2pjGLTGpRxjqGhXK
+	Node 9: 12D3KooWA9eU1VHSfPTEoP17tQMZTh3ebMRv9aTjMehDqaWkH2kj
+	Node 10: 12D3KooWRMb1CQeyLrXtrKq1oS8dvvaBFwHj8nNzdSxtNmZWE8N2
+	Node 11: 12D3KooW9zFZuoy82tifAsP3XpB493L51EvwZDmDrrUiB4dQZyup
+	Node 12: 12D3KooWSTo2RUn8nAvuR4WwRSknMzgLhfgDv6dq2LzXzCJE8JkT
+	Node 13: 12D3KooWKxgmgmvMpUYW51XFqG6s9toJtva6QLuG7V6xT6YLhQMQ
+	Node 14: 12D3KooWP2MR6nx8Qrh715xPMu41dkK2TKiTNwL5hNJfUVHyCjYu
+	Node 15: 12D3KooWHAgZ7PBgF7o8mXXkrmzCA6VuH6c7ekNpo5V25qqKnbRJ
+	Node 16: 12D3KooWDKogTFKfmS3xRyzoy5DBdregmXT53UzQ9K3DTmGr6KpX
+	Node 17: 12D3KooWHzdxUTs9QnFBpTTTkPcQsEGuxFbzZmN75EBzaHEQ4DcC
+	Node 18: 12D3KooWAbDZxDspuGsa592qQjWPUJaU4bXoZgeDmXK6auMKJvbR
+	Node 19: 12D3KooWPGV12bFEkTHQCiVqZX62TjGTwbDx874XNncykQqrSqXF
+	Node 20: 12D3KooWArLRBbpwAMLMqhvWVCPBvBiDZmkPC1V5kBGa6yEg5h9V
+	Node 21: 12D3KooWGEDUea7fJUHyCpS5gZQaSwskF3dCkUkyTEvf7mYLEZ9e
+	Node 22: 12D3KooWN9ZRWqGdZ13vLMTXyY2XKx3MjQdPguaLKXWyf1KDviCk
+	Node 23: 12D3KooWSCCk287e2BPj4CRiqyDhy7YV8LFJWxhxi35Q8AK9bQSF
+	Node 24: 12D3KooWCJD6qjSU28bT8AUwECuwFwB2fGV8tfyKGz9HjQwcAb7Z
+	Node 25: 12D3KooWSxqE1s2omdg8a8vuxzWu6ycmMxc1dJUSdkAyx4FjhLgf
+	Node 26: 12D3KooWCLRfapuRubSAQ1sLreSGVipCaFnnUKDb9CBxpmhUTcmv
+	Node 27: 12D3KooWGhxEtcKjiBd8YFFu5vMrFetSS9WJsNVukisubgvcw7T9
+	Node 28: 12D3KooWEWK695yYjUj3Jy91q4AH3YjNCuPREyVnfo3sWZVTTa25
+	Node 29: 12D3KooWSx4qWYR3ZionbHnSQve8AST6wemdQc1gxJcndzHNCg3x
+	Node 30: 12D3KooWDi9UcE2euAa1wemzkEJkw7H9qUFgxEa1rjnxNxYS8U7z
+	Node 31: 12D3KooWEE6hsU2ouy3mGjt5W6cS1pgeFMGZL7rPiP5N6TTCRmkr
+	Node 32: 12D3KooWJdQ2kurKCzk5tLiZYcA2hLxyGf5xm74Pc6JZMCWu66a5
+	Node 33: 12D3KooWHj1qrrXw2dJHRjDPRWLVSvAwrNMWyxQhnRJXvRrVBiQM
+	Node 34: 12D3KooWLtCPdZWRE39C8MRfDCowaa8jSm8pGtMhkAr52xk4W4WR
+	Node 35: 12D3KooWNW4MysGHWtVYz7kFnRcvHGboBCASYL3xV71UM3rxWDNe
+	Node 36: 12D3KooWMb3hAn1anAuhH1J31dGAMvv1EpKWLbjkRUkYgCJSNr8n
+	Node 37: 12D3KooWGxQwN9JJM5jwJyEFfL4f6ttXws2RjQ5iFKEGCHSVWNdT
+	Node 38: 12D3KooWJao6yqdfDH1PhF3ZpwCnASKA2EttWGKhopFp6Xwp86it
+	Node 39: 12D3KooWNJixWgwgAosWvuFKMMYu9rScPkW6BMqv1iiwC4dinXEu
+	Node 40: 12D3KooWMeHC8rPD4f2dUFZh8T63QLEvUHPxJTovLCJYpZweruJe
+	Amount of node 1 wins: 67
+	Amount of node 2 wins: 77
+	Amount of node 3 wins: 79
+	Amount of node 4 wins: 79
+	Amount of node 5 wins: 71
+	Amount of node 6 wins: 97
+	Amount of node 7 wins: 69
+	Amount of node 8 wins: 75
+	Amount of node 9 wins: 65
+	Amount of node 10 wins: 57
+	Amount of node 11 wins: 66
+	Amount of node 12 wins: 76
+	Amount of node 13 wins: 67
+	Amount of node 14 wins: 76
+	Amount of node 15 wins: 83
+	Amount of node 16 wins: 78
+	Amount of node 17 wins: 77
+	Amount of node 18 wins: 71
+	Amount of node 19 wins: 75
+	Amount of node 20 wins: 79
+	Amount of node 21 wins: 81
+	Amount of node 22 wins: 69
+	Amount of node 23 wins: 67
+	Amount of node 24 wins: 70
+	Amount of node 25 wins: 85
+	Amount of node 26 wins: 83
+	Amount of node 27 wins: 84
+	Amount of node 28 wins: 70
+	Amount of node 29 wins: 82
+	Amount of node 30 wins: 96
+	Amount of node 31 wins: 80
+	Amount of node 32 wins: 83
+	Amount of node 33 wins: 69
+	Amount of node 34 wins: 74
+	Amount of node 35 wins: 69
+	Amount of node 36 wins: 78
+	Amount of node 37 wins: 54
+	Amount of node 38 wins: 81
+	Amount of node 39 wins: 72
+	Amount of node 40 wins: 69
+---- Run Trial 9 ----
+	Node 1: 12D3KooWQdAFDeBj1wJEh9iVekPP4HsU6GydE2nmgPyzC8Y4Sqp8
+	Node 2: 12D3KooWCGx7qQiADbg3uMjzAvfS4DFNgTsS5qtLyCqvCzDJGZkz
+	Node 3: 12D3KooWDWoeBXSCu7SpgCUriPqHf4P1e5w8eDiTwHvMxmqFegjq
+	Node 4: 12D3KooWMCmtGm5adyvtoCQ36qtMpnSGXZWjjQgnHMp9w9cRm1rq
+	Node 5: 12D3KooWFhriM9ph313RHeujLVaL5Ar3iwdDcq7uDfXmSE2oDB6M
+	Node 6: 12D3KooWGp78SphAaLfMR3SJPF2wNnA9aB1YzmxKKjZopRSL9vdG
+	Node 7: 12D3KooWRA878Dej85sRARo4UxYNvq9K2vEPVSVmQ2Ms9Pt8GFHc
+	Node 8: 12D3KooWHaLYvpVCY1G1RaK7m8mkg2FuZPD22FNqbFAdzurdPXUm
+	Node 9: 12D3KooW9r1SkSs4C24zdR5F9A4fZzr3vx2ufdfbXn7WYynoz3Px
+	Node 10: 12D3KooWJeM1JkYKiDkoG8CMZFKvun5RSdSjSfqzNagETPEnuCMs
+	Node 11: 12D3KooWDB7pAFjnJeLh8sALQHW1PW6yh3QECUdZNy8WzjXbdcuz
+	Node 12: 12D3KooWBnMmqtSsse6b9G1oM82WM6m4nbeao1HLnHGVKwVboRDx
+	Node 13: 12D3KooWS5E1tsnGukDn9GmXFxKmpXSs4zwvTtEeo4rdFjtkNgV6
+	Node 14: 12D3KooWJuqETBrsu2WRTYr92tsAHxpYmjmT9p4qQ7Mx8fVPRScX
+	Node 15: 12D3KooWM3Fk4MJe8jkabEs5AsoykC4rWtmJdamKMQY6gsGLPAtN
+	Node 16: 12D3KooWMo1hWzhe8GDD7KqZy3eyCZsZYg9Uip4oH6A6WzEDzgYm
+	Node 17: 12D3KooWGSKpmuRFPTX6t6UucgJxV4dJinCpsuYHnXzDSPRggS92
+	Node 18: 12D3KooWJVJNkL5VhrtGb73DtJwKVdpeWopsuodbkDTdMUSVqmgo
+	Node 19: 12D3KooWQyTBknjBNYZEJt5qs9gEVqLhCRAQP9bZmRrrg142VYky
+	Node 20: 12D3KooWE4kuq99QeCdPFiCQvemuEaBSvCtmPnycuBeDMSd5yR85
+	Node 21: 12D3KooWMpkjWjLSguYzArgyH2nNcfR4oPcpZbBWYEhmpbkfQrKi
+	Node 22: 12D3KooWN44SagN8LLWKmL26XeNLAeSwQVQypwrDwsBgPr72MgiG
+	Node 23: 12D3KooWQeCDBXxzDwCfbMhG4DWsd7PTu4rDyVD5ByKBBtGLhLDj
+	Node 24: 12D3KooWQDWidA1ED2MPbBrRr4Q5NJbPeHvin343Nn6sBRwp4Gnk
+	Node 25: 12D3KooWMYUMqV79XBoPgLT6WJDLhWHHv9UHcN1sQZ76Ta7LXfPF
+	Node 26: 12D3KooWPQjHPGsLwz6V8kKQ6r7Do9BgHjD7xjaMxt8FfJcFrg2c
+	Node 27: 12D3KooWMMiEdEkBBDrNXkWFY3r1vXNHRokitUS8PnhTCxBMGKzF
+	Node 28: 12D3KooWRb8bMAkbXbFmD2QTpncswPM3zJFL7d9wtnADkJc6PMHj
+	Node 29: 12D3KooWFLEwsYpJDpFRLCWS7XrrNZpQ9XJXYwAHfsiYeHSGy5JB
+	Node 30: 12D3KooWAqjfqSdbjkMM2Rz1fL14LgQhoB9BzseEhMGu1kZ82Bsh
+	Node 31: 12D3KooWFWVVrN4ZjNW2HceoAooY8eApeFgrtkWCpZHj3nsS5wQt
+	Node 32: 12D3KooWKaQ82WGne7UFPzVZJvxzZbowwuQrS34Y7pAHXhg8DHT2
+	Node 33: 12D3KooWRzuihsspjmFwfKjseG4H9hoVnEr8DJweDJTGiS5uAf2c
+	Node 34: 12D3KooWDdYQpAaAyFAYmCWJLRmo5dLWrbSAjdikRTuSoFNQEiyy
+	Node 35: 12D3KooWPqaHdhGKih9LpohMbeqjK7HZBZPBCbLvLcGxQ93FUnMR
+	Node 36: 12D3KooWMueP9YWTqbcKPeSzjVEKQRxvhSx114PqBNRNY5ZvSSGR
+	Node 37: 12D3KooWSAa6gpwLy6xSXV1J4WJDBJwqYeXtc4xNh1nLQnmi5vfm
+	Node 38: 12D3KooWNXK8hSJDW3GiU2nAsz33C23B1ubwrLfBWWZVRJpNPdb8
+	Node 39: 12D3KooWCXiQjrTWpXGXEgiAqnEksqpusTCfZsPnTw6h3y481Hdv
+	Node 40: 12D3KooWE8Dw165DW4DrD5UAxReEpEAtsLYq93qjRQyFoN8SHVFt
+	Amount of node 1 wins: 78
+	Amount of node 2 wins: 63
+	Amount of node 3 wins: 80
+	Amount of node 4 wins: 75
+	Amount of node 5 wins: 78
+	Amount of node 6 wins: 76
+	Amount of node 7 wins: 67
+	Amount of node 8 wins: 81
+	Amount of node 9 wins: 79
+	Amount of node 10 wins: 76
+	Amount of node 11 wins: 75
+	Amount of node 12 wins: 75
+	Amount of node 13 wins: 63
+	Amount of node 14 wins: 75
+	Amount of node 15 wins: 77
+	Amount of node 16 wins: 71
+	Amount of node 17 wins: 76
+	Amount of node 18 wins: 77
+	Amount of node 19 wins: 68
+	Amount of node 20 wins: 68
+	Amount of node 21 wins: 77
+	Amount of node 22 wins: 83
+	Amount of node 23 wins: 91
+	Amount of node 24 wins: 82
+	Amount of node 25 wins: 75
+	Amount of node 26 wins: 83
+	Amount of node 27 wins: 77
+	Amount of node 28 wins: 68
+	Amount of node 29 wins: 65
+	Amount of node 30 wins: 65
+	Amount of node 31 wins: 86
+	Amount of node 32 wins: 75
+	Amount of node 33 wins: 79
+	Amount of node 34 wins: 71
+	Amount of node 35 wins: 70
+	Amount of node 36 wins: 68
+	Amount of node 37 wins: 72
+	Amount of node 38 wins: 81
+	Amount of node 39 wins: 88
+	Amount of node 40 wins: 66
+---- Run Trial 10 ----
+	Node 1: 12D3KooWAEE5ScshgAzpVjADgD58Z3QG9uKGe5MuaqHbcXpezukW
+	Node 2: 12D3KooWH5PncgemoDRBqFUkszKX7PionMZboxHwxexqNo5pTQQE
+	Node 3: 12D3KooWHi8tTWdwy5Ma38JWpsxV65gTHyAMqcgCn44yRkVveMkd
+	Node 4: 12D3KooWCk3tWus9SXfvhLHkQmYBai6h1QMGqcr3qZFXhkGsqx91
+	Node 5: 12D3KooWKMDXv4qp4htwV4pUN8QkAFgxV7ZL9x73yaFkXpDey8hh
+	Node 6: 12D3KooWNrLcvxRiiy4wMH2kWW9nBV1Bw24nNQxAMgMex4Qtj5HQ
+	Node 7: 12D3KooWLTYeq9RyJhpbAzbDYNc7qzf1v4LK7jXS1mMgpCd38SS9
+	Node 8: 12D3KooWLYy8qLCZWiqLMoBtbBLcFNxdwfNFm4nwifxUZ4K5cv7Z
+	Node 9: 12D3KooWETGctChp3ChCVporCiF3e7AkAafiBH5GDQX3pzFbH1rR
+	Node 10: 12D3KooWCBMhSxdE5PxwhrPKCw7nUXG6WcqDXnPcaaSQbJRsSBN1
+	Node 11: 12D3KooWGys1MJBx7uqxir7QjHcuwaMozRbVpJoYWkehHjsBNJPA
+	Node 12: 12D3KooWPcbdTicbSt8AqJL4sPFmoknYX7258GXHD419jrNAh5pv
+	Node 13: 12D3KooWEDKFTC1ZFcCy5qo7k9kQ1fmrysP9eouR3R815aD5bhee
+	Node 14: 12D3KooWN3c2j2ugDHY67xzTKEm5s2Cdm9oafUGZdt2JB2kQqs4H
+	Node 15: 12D3KooWHuo9xqcezCooQsXHFfutJCNJjGDBedfYUbbDu8HCgK7q
+	Node 16: 12D3KooWGtyAYz9NyRLv6ak59avCrHFdUypZmQsdtpsozyWNBC4o
+	Node 17: 12D3KooWHghWkUfNJcpbB4CCeg48XD3ikH1bxBrHBNRDBwDKQ8Uj
+	Node 18: 12D3KooWDz8q3QRK5rtaJjc53YQ93EKrJyR8pMBiKBTbS9bxJgki
+	Node 19: 12D3KooWHUjQNLYNinLeGtjAhLdsLP4S6zkkjYo1vgJte7Kd4qWG
+	Node 20: 12D3KooWAtx6D9Qb3Ma3oUHepbbVqgGoCfpA16o8tTgvUniqvUUh
+	Node 21: 12D3KooWGQfzJxS4habt2kJAgxNYVQGc8fhGyz61gP4EvrerVRNG
+	Node 22: 12D3KooWNu8jUjZE4ck5UCLSeD1Ch1uJiXHeDZQYvsmhFbiLEztP
+	Node 23: 12D3KooWAQmaXsbV6KtwwspckHf3mxnEFvxDKd6Hm1bVojAkRCKz
+	Node 24: 12D3KooWSjVR9zz9116hSnScZdRyLk1W4oMuuRDxkqo5xnvHwUjb
+	Node 25: 12D3KooWK8XEyaBK425hkt3LYsMd68g8XgwPMEVYc2K4f2PM7h76
+	Node 26: 12D3KooWPvHoUJumKjpJYMWGhzVPkPedUCynMUbtjWDw8WAr7oPS
+	Node 27: 12D3KooWND3neMQGcFQNqCh18mKJSEof4pT4nMrRstPJ4nAvz72M
+	Node 28: 12D3KooWGvtVb3oEZ46qr7xpmtGb6x9N8uwmHCzVTRkLkefVJr6t
+	Node 29: 12D3KooWRbhejmCEziEvVf4QadMRVUnxX4w7eKQ5uPh6P2Diw6mR
+	Node 30: 12D3KooWN1w92G5zasoeU9t8TrqRyTh1Kc9unVeTGS66NUghRSs7
+	Node 31: 12D3KooWEngFRf8AGMG3EEQza8v7UmoJzSsXYzCzncaYCzDGVoBB
+	Node 32: 12D3KooWEqq98L6CciWXYWeAFunkXEf2EWnLijpSHA6WzTySiQ6B
+	Node 33: 12D3KooWQfijDHFDavgX2fBdjmD9fpiWpfeqqRxZsM2eg38s6v39
+	Node 34: 12D3KooWAZ9MbmS3ERmxqfc7DHJ6pkvavbx1dJqDy4YHmmn8kuA4
+	Node 35: 12D3KooWMRAB3KBE6uwrZLPAtzBnFFYYcnett1toXAbYivsx5MGg
+	Node 36: 12D3KooWCAt7cyCVg9JcDAxFEWC5rF8AgDH1xKAMyHdsEbfAML8Z
+	Node 37: 12D3KooWCksZPCZxXi9Wf7sfSY8h3izZiavZnrTk8WgjXK2pvhCf
+	Node 38: 12D3KooWAkrkkyVvDR9PZ8SEWx6XNzU18MmQ1fx9uRGnDiTdLEsD
+	Node 39: 12D3KooWNjkozDkP877kXweMzggCiVEhwXbLk1WqmDTpkM4sJd9d
+	Node 40: 12D3KooWMhRvG4Rycy8rMBWwvR2GPGkCuGVMQkL8enU89iBqJbAP
+	Amount of node 1 wins: 81
+	Amount of node 2 wins: 77
+	Amount of node 3 wins: 63
+	Amount of node 4 wins: 75
+	Amount of node 5 wins: 71
+	Amount of node 6 wins: 76
+	Amount of node 7 wins: 71
+	Amount of node 8 wins: 71
+	Amount of node 9 wins: 79
+	Amount of node 10 wins: 78
+	Amount of node 11 wins: 69
+	Amount of node 12 wins: 65
+	Amount of node 13 wins: 76
+	Amount of node 14 wins: 71
+	Amount of node 15 wins: 67
+	Amount of node 16 wins: 74
+	Amount of node 17 wins: 68
+	Amount of node 18 wins: 80
+	Amount of node 19 wins: 76
+	Amount of node 20 wins: 75
+	Amount of node 21 wins: 93
+	Amount of node 22 wins: 74
+	Amount of node 23 wins: 88
+	Amount of node 24 wins: 63
+	Amount of node 25 wins: 76
+	Amount of node 26 wins: 90
+	Amount of node 27 wins: 77
+	Amount of node 28 wins: 77
+	Amount of node 29 wins: 83
+	Amount of node 30 wins: 81
+	Amount of node 31 wins: 68
+	Amount of node 32 wins: 70
+	Amount of node 33 wins: 76
+	Amount of node 34 wins: 71
+	Amount of node 35 wins: 68
+	Amount of node 36 wins: 57
+	Amount of node 37 wins: 79
+	Amount of node 38 wins: 88
+	Amount of node 39 wins: 74
+	Amount of node 40 wins: 84
+	
